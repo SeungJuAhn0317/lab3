@@ -1,0 +1,4 @@
+[ Mon Nov 16 05:35:45 2020 ] P1 : /s 
+[ Mon Nov 16 05:35:48 2020 ] P1 : Hi 
+[ Mon Nov 16 05:36:02 2020 ] P2 : My name is SeungJu! 
+[ Mon Nov 16 05:36:10 2020 ] P1 : Wow! 
